@@ -1,0 +1,15 @@
+{
+  "name": "social-media-queries",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/swkane/social-media-queries.git",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "<Sam> <<swkane@indiana.edu>>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "pg": "^7.4.3"
+  }
+}
